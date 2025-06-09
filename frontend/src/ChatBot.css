@@ -1,0 +1,4 @@
+.chatbot { margin-top: 2rem; }
+.chat-window { border: 1px solid #ccc; height: 200px; overflow: auto; padding: 0.5rem; }
+.user { text-align: right; }
+.bot { text-align: left; }
